@@ -25,10 +25,10 @@ const themeConfig = {
   mainLayoutType    : "vertical",  // options[String]  : vertical(default) / horizontal
   navbarColor       : "#0ABAB5",      // options[String]  : HEX color / rgb / rgba / Valid HTML Color name - (default: #fff)
   navbarType        : "floating",  // options[String]  : floating(default) / static / sticky / hidden
-  routerTransition  : "zoom-fade", // options[String]  : zoom-fade / slide-fade / fade-bottom / fade / zoom-out / none(default)
+  routerTransition  : "none", // options[String]  : zoom-fade / slide-fade / fade-bottom / fade / zoom-out / none(default)
   rtl               : false,       // options[Boolean] : true, false(default)
   sidebarCollapsed  : false,       // options[Boolean] : true, false(default)
-  theme             : "light",     // options[String]  : "light"(default), "dark", "semi-dark"
+  theme             : "semi-dark",     // options[String]  : "light"(default), "dark", "semi-dark"
 
   // Not required yet - WIP
   userInfoLocalStorageKey: "userInfo",
