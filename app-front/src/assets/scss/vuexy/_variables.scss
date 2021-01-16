@@ -72,7 +72,7 @@ $font-weight-base:            $font-weight-normal;
 $line-height-base:            1.45;
 
 $content-color: #626262;
-$theme-background: #f8f8f8;
+$theme-background: #F2F2F2;
 
 
 /*========================================================
@@ -86,18 +86,18 @@ $reduced-sidebar-width: 80px;
         DARK THEME
 =========================================================*/
 
-$sidebar-dark-bg: #2F4554;
-$content-dark-bg: #262c49;
-$dark-card-color: #2F4554;
+$sidebar-dark-bg: #333F50;
+$content-dark-bg: #8497B0;
+$dark-card-color: #333F50;
 $table-dark-stripe: #212744;
-$table-light-stripe: #262c49;
+$table-light-stripe: #8497B0;
 $grid-dark-color: #343661;
 
-$theme-light-dark-bg: #262c49;
-$theme-dark-bg: #2F4554;
+$theme-light-dark-bg: #8497B0;
+$theme-dark-bg: #333F50;
 $theme-dark-secondary-bg: #171e49;
 $theme-dark-text-color: #c2c6dc;
 $theme-dark-heading-color: #ebeefd;
-// $theme-dark-heading-color: #C9CAD2;
+//$theme-dark-heading-color: #C9CAD2;
 $theme-dark-border-color: #414561;
 $theme-dark-shadow-color: #0C112E;
